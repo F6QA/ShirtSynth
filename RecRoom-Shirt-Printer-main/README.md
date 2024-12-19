@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Print Your Own Custom Shirt](Resources/RecRoomPrintingBanner.png)](https://discord.gg/GuzwRMsyW8)
+[![Print Your Own Custom Shirt](Resources/RecRoomPrintingBanner.png)](https://discord.gg/PAtfS7MXuV)
 
 </div>
 
